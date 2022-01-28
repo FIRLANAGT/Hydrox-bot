@@ -2,9 +2,9 @@
   "clientsettings": {
     "nodes": [
       {
-         "host": "lava.link",
-         "port": 80,
-         "password": "hydrox"
+         "host": "lavalinkinc.ml",
+         "port": 443,
+         "password": "incognito"
       }
      ]
   },
