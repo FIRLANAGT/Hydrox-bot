@@ -1,8 +1,8 @@
 {
-  "default_prefix": ",",
-  "owners": ["745581095747059722", "440200028292907048", "506505845215985674", "729554449844011130"],
+  "default_prefix": "+",
+  "owners": ["885063191292424203"],
   "timeout": 300000,
-  "invite_link": "https://discord.com/api/oauth2/authorize?client_id=882311254423765012&permissions=8&scope=bot",
+  "invite_link": "https://discord.com/api/oauth2/authorize?client_id=936516405409493023&permissions=8&scope=bot",
   "error_logs": "Error Channel ID",
   "success_logs": "Succes Channel ID",
   "disable_fetching": false,
